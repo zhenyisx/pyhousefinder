@@ -1,0 +1,5 @@
+-e git+git://github.com/juliomalegria/python-craigslist.git#egg=python-craigslist
+sqlalchemy
+python-dateutil
+ipython
+slackclient
