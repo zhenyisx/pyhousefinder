@@ -27,7 +27,10 @@ Its development web site is at <https://github.com/zhenyisx/pyhousefinder>.
 ## Dependencies:
 
 * `SQLAlchemy`: sudo pip install SQLAlchemy
-* `python-craigslist`: sudo pip install python-craigslist
+* `craigslist`: sudo pip install python-craigslist 
+* `dateutil`: sudo pip install python-dateutil
+* `SlackClient`: sudo pip install slackclient
+
 
 <!-- ## Branches:
 
