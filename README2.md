@@ -20,7 +20,7 @@ Its development web site is at <https://github.com/zhenyisx/pyhousefinder>.
     * `/agufull08.bst` is the 2008 edition of the AGU bibliography style
     * `unsrtabbrv3.bst` is a style written by one of the authors of `uafthesis.cls`. -->
 <!-- * `server.py`: Contains classes and methods for a http server. -->
-* `pyutils/`: Contains utility classes and methods.
+<!-- * `pyutils/`: Contains utility classes and methods. -->
 * `README2.md`: This file.
 
 
